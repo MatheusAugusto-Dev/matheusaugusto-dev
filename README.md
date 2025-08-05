@@ -51,20 +51,7 @@ Meu objetivo é ajudar pessoas e empresas a ganharem tempo, eficiência e inteli
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MatheusAugusto-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+![Matheus Gonçalves GitHub Estatísticas](https://github-stats-matheus.vercel.app/api?username=MatheusAugusto-Dev&show_icons=true&theme=vue-dark&include_all_commits=true&locale=pt-br)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAugusto-Dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+![Linguagens mais utilizadas](https://github-stats-matheus.vercel.app/api/top-langs/?username=MatheusAugusto-Dev&layout=compact&theme=vue-dark&locale=pt-br)
 
-</p>
